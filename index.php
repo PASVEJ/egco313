@@ -1,3 +1,4 @@
+
 <html>
 <head>
 	<title>Hello world!</title>
@@ -15,7 +16,8 @@
 	</style>
 </head>
 <body>
-	<img id="logo" src="logo.png" />
+	<img id="logo" src="https://s3-us-west-2.amazonaws.com/qqlotus/egco.png" />
+        <img src="https://shielded-bastion-28657.herokuapp.com/data.html">
 	<h1>Hello world!</h1>
 			<h2>MySQL Server version: 5.5.47-0ubuntu0.14.04.1</h2>
 	</body>
